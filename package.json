@@ -1,7 +1,7 @@
 {
   "name": "single-spa-children",
   "version": "1.0.0",
-  "description": "微前端子应用1",
+  "description": "微前端子应用2",
   "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development node build/dev-server.js",
